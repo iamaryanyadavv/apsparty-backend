@@ -9,7 +9,6 @@
 /coverage
 /localhost-key.pem
 /localhost.pem
-/credentials.json
 
 # production
 /build
